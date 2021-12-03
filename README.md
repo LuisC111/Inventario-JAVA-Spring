@@ -2,14 +2,14 @@
 
 _Inventario-JAVA-Spring (Proyecto de inventario usando JAVA y Spring como framework)_
 
-## Comenzando 🚀
+## Starting🚀
 
 _Si el programa presenta fallos o tiene dudas puede contactarnos via email: luisomg111@gmail.com_
 
 
 ### Pre-requisitos 📋
 
-_IDE de desarrollo_
+_IDE_
 
 ```
 Desarrollado en Visual Studio Code
